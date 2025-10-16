@@ -1,3 +1,4 @@
 # MyFirstRepo-demo
 this is my first repository !
-By Dhruvanthi KR
+<br>
+Author - Dhruvanthi KR
